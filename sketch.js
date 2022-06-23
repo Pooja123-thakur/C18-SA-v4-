@@ -119,7 +119,7 @@ function draw() {
      console.log("hey")
       gameOver.visible = true;
       restart.visible = true;
-     
+     //Hello
       ground.velocityX = 0;
       trex.velocityY = 0
      
